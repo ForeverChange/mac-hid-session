@@ -1,1 +1,9 @@
-
+/build/
+/.deps/
+/.local/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+*.sock
+.env
